@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Book Tracker</h1>
+    </header>
+    <main>
+
+    <form>
+        <input 
+            type='text'
+            id="title"
+            placeholder="What's the book's title?"/>
+        <input 
+            type='text'
+            id="img"
+            placeholder='Paste an image URL'/>
+        <section id="finished-container">
+            <p>How far in the book:</p>
+            <div id="radio-container">
+                <label for="one">
+                    <input
+                        type="radio"
+                        name="finished"
+                        value="1"
+                        id="one"/>
+                    20%
+                </label>
+                <label for="two">
+                    <input
+                        type="radio"
+                        name="finished"
+                        value="2"
+                        id="two"/>
+                    40%
+                </label>
+                <label for="three">
+                    <input
+                        type="radio"
+                        name="finished"
+                        value="3"
+                        id="three"/>
+                    60%
+                </label>
+                <label for="four">
+                    <input
+                        type="radio"
+                        name="finished"
+                        value="4"
+                        id="four"/>
+                    80%
+                </label>
+                <label for="five">
+                    <input
+                        type="radio"
+                        name="finished"
+                        value="5"
+                        id="five"/>
+                    100%
+                </label>
+            </div>
+        </section>
+        <button>add book</button>
+    </form>
+
+    <section id="books-container"></section>
+
+    </main>
+
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

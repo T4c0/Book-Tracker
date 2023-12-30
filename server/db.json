@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "title": "To Kill a Mockingbird",
+      "finished": 100,
+      "imageURL" : "https://media.glamour.com/photos/56e1f3c462b398fa64cbd304/master/w_1600%2Cc_limit/entertainment-2016-02-18-main.jpg"
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "finished": 80,
+      "imageURL" : "https://images.booksense.com/images/333/869/9781328869333.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Great Gatsby",
+      "finished": 100,
+      "imageURL" : "https://i0.wp.com/americanwritersmuseum.org/wp-content/uploads/2018/02/CK-3.jpg?resize=267%2C400&ssl=1"
+    },
+    {
+      "id": 4,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "finished": 60,
+      "imageURL" : "https://images.penguinrandomhouse.com/cover/9781400052929"
+    },
+    {
+      "id": 5,
+      "title": "The Alchemist",
+      "finished": 80,
+      "imageURL" : "https://images.booksense.com/images/007/315/9780062315007.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Catcher in the Rye",
+      "finished": 60,
+      "imageURL" : "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398034300i/5107.jpg"
+    },
+    {
+      "id": 7,
+      "title": "The Girl with the Dragon Tattoo",
+      "finished": 100,
+      "imageURL" : "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/81UhKOBDrCL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "One Hundred Years of Solitude",
+      "finished": 60,
+      "imageURL" : "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/81MI6+TpYkL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Sapiens: A Brief History of Humankind",
+      "finished": 80,
+      "imageURL" : "https://images.booksense.com/images/110/316/9780062316110.jpg"
+    },
+    {
+      "id": 10,
+      "title": "The Night Circus",
+      "finished": 60,
+      "imageURL" : "https://images.penguinrandomhouse.com/cover/9780307744432"
+    }
+  ]
