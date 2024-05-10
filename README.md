@@ -56,3 +56,23 @@ git clone https://github.com/your-username/book-tracker-app.git
 ```bash
 cd book-tracker-app
 ```
+
+### Install Dependencies
+```bash
+npm install
+```
+
+## Usage
+
+### 1. Start the server
+
+```bash
+npm start
+```
+### 2. Open your web browser and go to:
+```bash
+http://localhost:4004
+```
+
+### Future Improvments 
+
