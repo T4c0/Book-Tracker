@@ -75,7 +75,12 @@ http://localhost:4004
 ```
 
 ## Future Improvments
+
 - Replace internal database with a different database source (e.g., MongoDB, PostgreSQL, etc.)
 - Improve user interface and experience
 - Add user authentication
+
+##Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your suggested changes.
+
 
