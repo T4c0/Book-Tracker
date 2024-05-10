@@ -48,3 +48,11 @@ The Book Tracker App is a web application designed to help users keep track of t
 
 ```bash
 git clone https://github.com/your-username/book-tracker-app.git
+
+```
+
+### Navigate to the Project Directory
+
+```bash
+cd book-tracker-app
+```
