@@ -74,5 +74,8 @@ npm start
 http://localhost:4004
 ```
 
-### Future Improvments 
+## Future Improvments
+- Replace internal database with a different database source (e.g., MongoDB, PostgreSQL, etc.)
+- Improve user interface and experience
+- Add user authentication
 
