@@ -47,7 +47,7 @@ The Book Tracker App is a web application designed to help users keep track of t
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/book-tracker-app.git
+git clone https://github.com/T4c0/book-tracker-app.git
 
 ```
 
